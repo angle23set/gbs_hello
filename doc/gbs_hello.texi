@@ -1,0 +1,11 @@
+\input texinfo @c -*-texinfo-*-
+@setfilename gbs_hello.info
+@contents
+@node TOP
+@top GBS Hello
+---
+Hello simply print "Hello!".
+---
+@bye
+
+@c gbs_hello.texi ends here
